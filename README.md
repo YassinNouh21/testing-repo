@@ -1,5 +1,3 @@
 # testing-repo
 
-
-
-أشتاق إلى الأوقات السعيدة والأشخاص الذين كانوا جزءًا من حياتي ولكن ابتعدوا عنها. يبدو أن الأيام الجميلة قد مرت بسرعة، ولم يتبق سوى ذكريات غائمة.
+The bittersweet feeling of watching an old friend walk away, knowing you may never see them again, is like a heavy raincloud in your heart.
